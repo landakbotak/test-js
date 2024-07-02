@@ -48,4 +48,4 @@ let productBin = {
         totalQty += values[i].quantity;
     }
   }
-  console.log(totalQty);
+  console.log("Total quantity dari Product Code FBR00040101: "+totalQty);
